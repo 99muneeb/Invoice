@@ -1,0 +1,19 @@
+#header{
+    background-color: #fff !important;
+    color: #ff0000 !important;
+    box-shadow: 0px 0px 3px 0px #ff0000;
+}
+#header a:link, #header a:visited{
+    color: rgb(41, 41, 41) !important;
+}
+.module h2, .module caption, .inline-group h2 {
+    color: black!important;
+}
+.module h2, .module caption, .inline-group h2{
+    background-color: #0e0e0e !important;
+}
+
+div.breadcrumbs{
+    background-color: black!important;
+}
+
